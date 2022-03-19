@@ -1,13 +1,13 @@
 {
-  "name": "evobot",
+  "name": "Akito",
   "version": "0.15.2",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "CursedWolf2022 <tejas.v.bagkar@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/CursedWolf2022/Akito",
+  "repository": "github:CursedWolf2022/Akito",
+  "bugs": "https://github.com/CursedWolf2022/Akito/issues",
   "engines": {
     "node": ">=14.0.0"
   },
